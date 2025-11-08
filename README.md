@@ -2,7 +2,7 @@
 
 > _A refined circular navigation bar with fluid motion and precision transitions._
 
-An **another style** of the Magic Navigation Bar — designed with smoother curves, subtle easing functions, and a polished circular indicator.
+An **another style** of **the Magic Navigation Bar** — designed with smoother curves, subtle easing functions, and a polished circular indicator.
 Built entirely with **HTML, CSS, and Vanilla JavaScript**, focused on **minimalism, motion, and visual precision.**
 
 🔗 **[Live Demo](https://nsnet21.github.io/10-magic-navigation-bar-02/)**
